@@ -1,5 +1,9 @@
 # BobHCSGOInjector
 
+## Special Notice
+
+Run the injector as administrator!
+
 ## Introduction
 
 New Bypass Trusted mode Injector of CSGO
@@ -9,6 +13,10 @@ New Bypass Trusted mode Injector of CSGO
 External restore hook of VAC
 
 after injection, restore the original hook of VAC
+
+## 特别注意
+
+需要管理员身份运行
 
 ## 介绍
 
